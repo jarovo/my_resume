@@ -86,6 +86,12 @@ Reached the Intermediate-Advanced levels in Lindy Hop, basic Balboa.
  - Selfish gene - Richard Dawkins
  - How to make friends and influence people - Dale Carnegie
 
+
+## 📚 References
+<div>
+
+<iframe style="border: none;width: 100%; min-height: 500px" src="https://www.poptavej.cz/iframe/rating/rating?number=24596464"></iframe>
+
 ## QR Codes
 | | |
 | -- | -- |
