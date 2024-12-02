@@ -32,7 +32,6 @@ Wisdom: A pessimist sees the difficulty in every opportunity; an optimist sees t
 ## 💼 Work experience 
 **Technical support and development @ [Unipi technology](unipi.technology), Brno**
 - 📅 December  2022 - February 2023
-- Technician, support
 - Gitlab to Github mirroring tool
 - Customer care
 - CPU loader with feedback loop to control the load.
@@ -77,9 +76,12 @@ Reached the Intermediate-Advanced levels in Lindy Hop, basic Balboa.
  - How to make friends and influence people - Dale Carnegie
 
 ## 📚 References
+<div>
+
 <div>References on demand aggregator pages <a target="_blank" href="https://www.poptavej.cz/?utm_source=iframe_hodnoceni&in=iframe_hodnoceni" style="color: #0086EE;">Poptávej.cz</a>.</b></br>All references were obtained from my customers.</div>
 
 <iframe style="border: none;width: 100%; min-height: 500px" src="https://www.poptavej.cz/iframe/rating/rating?number=24596464"></iframe>
+<div>
 
 
 ## 📞 Contact
