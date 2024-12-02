@@ -80,11 +80,14 @@ Reached the Intermediate-Advanced levels in Lindy Hop, basic Balboa.
  - How to make friends and influence people - Dale Carnegie
 
 ## 📚 References
-<div style="color: #283556;padding: 25px;background-color: #FFFFFF;"><b>References on demand aggregator pages <a target="_blank" href="https://www.poptavej.cz/?utm_source=iframe_hodnoceni&in=iframe_hodnoceni" style="color: #0086EE;">Poptávej.cz</a>.</b></br>All references were obtained from my customers.</div>
+<div>References on demand aggregator pages <a target="_blank" href="https://www.poptavej.cz/?utm_source=iframe_hodnoceni&in=iframe_hodnoceni" style="color: #0086EE;">Poptávej.cz</a>.</b></br>All references were obtained from my customers.</div>
+
 <iframe style="border: none;width: 100%; min-height: 500px" src="https://www.poptavej.cz/iframe/rating/rating?number=24596464"></iframe>
 
 
 ## 📞 Contact
+| | |
+|-|-|
 | **Name**   | Jaroslav Henner |
 | **Tel**   | +420 725 580 001 |
 | **E-mail**   | jaroslav.henner@gmail.com
