@@ -1,57 +1,31 @@
-# Kouč, učitel, hodinový manžel a IT engineer.
+# Coach, teacher, professional handyman and IT engineer.
 
 #### Summary: 
-Mission target: Šťastně žít a pracovat efektivně. Pomáhat lidem být skvělými.
+Mission target: Live happily and work effectively. Help people to be awesome.
 Wisdom: A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. (W. Churchill)
 
-#### CVE:
+#### 🐛CVE:
 
-[CVE-2013-4261](https://nvd.nist.gov/vuln/detail/CVE-2013-4261)
-[CVE-2014-2573](https://nvd.nist.gov/vuln/detail/CVE-2014-2573)
-[CVE-2019-14894](https://nvd.nist.gov/vuln/detail/CVE-2019-14894)
+- [CVE-2013-4261](https://nvd.nist.gov/vuln/detail/CVE-2013-4261)
+- [CVE-2014-2573](https://nvd.nist.gov/vuln/detail/CVE-2014-2573)
+- [CVE-2019-14894](https://nvd.nist.gov/vuln/detail/CVE-2019-14894)
 
 
-#### Technical Skills:
+#### ☆ Technical Skills:
 
 - IT Development Skills: _Proficient in Python, Linux, Bash, javascript_
 - Virtualisation & Cloud skills: _QEMU-KVM, libvirt, Docker, Openshift (Kubernetes), Azure, VMWare;_
 - People skills: _Coaching by ICF standards, Nonviolent communication_
   
 ## 🎓 Education
-Student on erasmus @ Tampere University of Technology, Finland - Tampere
- - 📅 Autumn 2009
- - Studied Communication theory, Signal processing and other interesting subjects.
- - Informally studied cultural differences and similarities.
- - Made an awesome friendship and fell in love with the sauna.
-   
-** Engineer (Ing) ** @ Vysoká škola báňská, Technická univerzita Ostrava, Ostrava
-2004 – 2010
-I directed my studies towards the Operating systems, Communication technology and Signal processing
-https://photos.app.goo.gl/tUQXNr92FxuFSHnf8
-Střední průmyslová škola Mohelnice — Mohelnice
-2000-2004
-I studied Computer technology related minor subjects.
-I passed the Exam about working on electric devices (vyhláška 50). Expired .
-Swing wings — Brno
-2016-ongoing
-Learning how to dance awesome, fun, relaxed, joyful and expressive dances in a group of people that includes foreigners and are active.
-Reached the Intermediate-Advanced level in Lindy Hop and Balboa.
+
+- **Student on erasmus** @ Tampere University of Technology, Finland - Tampere; 📅 Autumn 2009
+
+- **Engineer (Ing)** @ Vysoká škola báňská, Technická univerzita Ostrava, Česká republika - Ostrava; 📅 2004 – 2010
+
+ - **Student** @ Střední průmyslová škola Mohelnice @ Česká republika - Mohelnice 📅 2000-2004
 
 [Achievements](https://photos.app.goo.gl/tUQXNr92FxuFSHnf8)
-
-## 📖 Self-development and other books read
- - Applying the self development books techniques
- - Uvědomělý život - James Hollis
- - 7 habits of effective people - Stephen R. Covey
- - Crucial conversations, Joseph Grenny, Kerry Patterson, and Ron McMillan, Switzler
- - How to Have Confidence and Power in Dealing With People - Les Giblin
- - Selfish gene - Richard Dawkins
- - How to make friends and influence people - Dale Carnegie
-
-
-- **Ing**, Genetics and Plant Breeding | <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_FEB 2021 - Thesis submitted on 31st OCT 2023_)		  		
-- **M.Sc.**, Genetics and Plant Breeding	| <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_AUG 2017 - DEC 2020_)	 			        		
-- **B.Sc.**, Agriculture | <a href="https://cattheni.edu.in/" target="_blank">College of Agricultural Technology</a> (_JUL 2013 - JUL 2017_)
 
 ## 💼 Work experience 
 ** Technical support and development @ [Unipi technology](unipi.technology), Brno**
@@ -95,35 +69,27 @@ Reached the Intermediate-Advanced level in Lindy Hop and Balboa.
  - Boards maintenance.
 
 ## 🎤 Workshops
-- Attended basic coaching training @ [koucinkcentrum.cz](koucingcentrum.cz)
-- Attended the Nonviolent Communication courses at [nenasilnakomunikace.org](https://nenasilnakomunikace.org/)
+**Coach** Attended basic coaching training @ [koucinkcentrum.cz](koucingcentrum.cz)
+
+**Dancer** @ Swing wings — Brno, 📅 2016 - June 2022
+Learned how to dance awesome, fun, relaxed, joyful and expressive dances in a group of active people that includes foreigners.
+Reached the Intermediate-Advanced levels in Lindy Hop, basic Balboa.
+
+**Attendee** of the Nonviolent Communication courses at [nenasilnakomunikace.org](https://nenasilnakomunikace.org/)
+
+
+## 📖 Self-development and other books read
+ - Applying the self development books techniques
+ - Uvědomělý život - James Hollis
+ - 7 habits of effective people - Stephen R. Covey
+ - Crucial conversations, Joseph Grenny, Kerry Patterson, and Ron McMillan, Switzler
+ - How to Have Confidence and Power in Dealing With People - Les Giblin
+ - Selfish gene - Richard Dawkins
+ - How to make friends and influence people - Dale Carnegie
 
 ## 📚 References
-
-|     |     |
-|:----|:----|
-| **Name:** | **Dr. Vania de Azevedo** |
-| **Position:** | Former Head, Plant Genetic Resources |
-| **Organization:** | ICRISAT, Hyderabad, India |
-| **E-mail:** | <a href="mailto:azevedovcr@gmail.com">azevedovcr@gmail.com</a> |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/v%C3%A2nia-c-renn%C3%B3-azevedo-21493449/" target="_blank">Visit Page</a> |
-
-|     |     |
-|:----|:----|
-| **Name:** | **Dr. Mani Vetriventhan** |
-| **Position:** | Senior Scientist, Plant Genetic Resources |
-| **Organization:** | ICRISAT, Hyderabad, India |
-| **E-mail:** | <a href="mailto:M.Vetriventhan@cgiar.org">M.Vetriventhan@cgiar.org</a> |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/vetriventhan-mani-26468322/" target="_blank">Visit Page</a> |
-
-|     |     |
-|:----|:----|
-| **Name:** | **Mr. Rajaguru Bohar** |
-| **Position:** | Regional Genotyping Coordinator (South Asia) / Senior Scientist (Project management) |
-| **Organization:** | CIMMYT |
-| **E-mail:** | <a href="mailto:wishmeguru@gmail.com">wishmeguru@gmail.com</a> |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/rajaguru-bohar-5038762a/" target="_blank">Visit Page</a> |
-|     |     |
+<div style="color: #283556;padding: 25px;background-color: #FFFFFF;"><b>References on demand aggregator pages <a target="_blank" href="https://www.poptavej.cz/?utm_source=iframe_hodnoceni&in=iframe_hodnoceni" style="color: #0086EE;">Poptávej.cz</a>.</b></br>All references were obtained from my customers.</div>
+<iframe style="border: none;width: 100%; min-height: 500px" src="https://www.poptavej.cz/iframe/rating/rating?number=24596464"></iframe>
 
 
 ## 📞 Contact
