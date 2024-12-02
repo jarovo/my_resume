@@ -24,7 +24,7 @@ Wisdom: A pessimist sees the difficulty in every opportunity; an optimist sees t
 
 ## 🎓 Education
 
-- **Student on erasmus** @ Tampere University of Technology, Finland - Tampere; 📅 Autumn 2009
+- **Student on Erasmus** @ Tampere University of Technology, Finland - Tampere; 📅 Autumn 2009
 
 - **Engineer (Ing)** @ Vysoká škola báňská, Technická univerzita Ostrava, Česká republika - Ostrava; 📅 2004 – 2010
 
@@ -86,11 +86,6 @@ Reached the Intermediate-Advanced levels in Lindy Hop, basic Balboa.
  - Selfish gene - Richard Dawkins
  - How to make friends and influence people - Dale Carnegie
 
-
-## 📚 References
-<div>
-
-<iframe style="border: none;width: 100%; min-height: 500px" src="https://www.poptavej.cz/iframe/rating/rating?number=24596464"></iframe>
 
 ## QR Codes
 | | |
