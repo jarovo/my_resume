@@ -7,8 +7,8 @@
 | **Name**   | Jaroslav Henner |
 | **Tel**   | +420 725 580 001 |
 | **E-mail**   | jaroslav.henner@gmail.com
-| **LinkedIn**   | https://www.linkedin.com/in/jaroslav-henner-47a3978b/ |
-| **Web**   | https://koucove.github.io/ |
+| **LinkedIn**   | [![https://www.linkedin.com/in/jaroslav-henner-47a3978b/](jaro_linkedin.svg)](https://www.linkedin.com/in/jaroslav-henner-47a3978b/) |
+| **Web**   | [https://koucove.github.io/](https://koucove.github.io/) |
 | **IČO** | 19458568 |
 
 #### Summary: 
@@ -93,3 +93,6 @@ Reached the Intermediate-Advanced levels in Lindy Hop, basic Balboa.
 
 <iframe style="border: none;width: 100%; min-height: 500px" src="https://www.poptavej.cz/iframe/rating/rating?number=24596464"></iframe>
 <div>
+
+## vCard QR Code
+![vCard QR_code/](jaro_resume_vcard.svg)]
