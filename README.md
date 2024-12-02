@@ -4,19 +4,13 @@
 Mission target: Live happily and work effectively. Help people to be awesome.
 Wisdom: A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. (W. Churchill)
 
-#### 🐛CVE:
-
-- [CVE-2013-4261](https://nvd.nist.gov/vuln/detail/CVE-2013-4261)
-- [CVE-2014-2573](https://nvd.nist.gov/vuln/detail/CVE-2014-2573)
-- [CVE-2019-14894](https://nvd.nist.gov/vuln/detail/CVE-2019-14894)
-
-
 #### ☆ Technical Skills:
 
 - IT Development Skills: _Proficient in Python, Linux, Bash, javascript_
 - Virtualisation & Cloud skills: _QEMU-KVM, libvirt, Docker, Openshift (Kubernetes), Azure, VMWare;_
 - People skills: _Coaching by ICF standards, Nonviolent communication_
-  
+
+
 ## 🎓 Education
 
 - **Student on erasmus** @ Tampere University of Technology, Finland - Tampere; 📅 Autumn 2009
@@ -25,10 +19,18 @@ Wisdom: A pessimist sees the difficulty in every opportunity; an optimist sees t
 
  - **Student** @ Střední průmyslová škola Mohelnice @ Česká republika - Mohelnice 📅 2000-2004
 
-[Achievements](https://photos.app.goo.gl/tUQXNr92FxuFSHnf8)
+
+#### Achivements & Certificates:
+ - [Arctic code vault contributor](https://github.com/users/jarovo/achievements/arctic-code-vault-contributor)
+ - [CVE-2013-4261](https://nvd.nist.gov/vuln/detail/CVE-2013-4261)
+ - [CVE-2014-2573](https://nvd.nist.gov/vuln/detail/CVE-2014-2573)
+ - [CVE-2019-14894](https://nvd.nist.gov/vuln/detail/CVE-2019-14894)
+ - [Certificates](https://photos.app.goo.gl/tUQXNr92FxuFSHnf8)
+ - RHCSA course.
+
 
 ## 💼 Work experience 
-** Technical support and development @ [Unipi technology](unipi.technology), Brno**
+**Technical support and development @ [Unipi technology](unipi.technology), Brno**
 - 📅 December  2022 - February 2023
 - Technician, support
 - Gitlab to Github mirroring tool
@@ -36,35 +38,25 @@ Wisdom: A pessimist sees the difficulty in every opportunity; an optimist sees t
 - CPU loader with feedback loop to control the load.
 - Testing Mervis - Integrated development environment for PLCs
 
-** 💼 Teacher assistant @ [Czechitas](czechitas.cz)
+**💼 Teacher assistant @ [Czechitas](czechitas.cz)**
  - July-2022 - December 2023
  - Teaching women programming in Python.
 
-** 💼 Quality assurance engineer @ Red Hat, Brno
+**💼 Quality assurance engineer @ Red Hat, Brno**
  - 📅 January 2011 - June 2022
- - Automation and testing.
- - Manage IQ
+ - Automation and testing of Manage IQ, OpenStack, RHEV-Manager
  - Fixing the tests in our [opensourced tests repo]( https://github.com/ManageIQ/integration_tests)
- - Involved in hiring new people to our team.
- - Container management
- - Managing Openshift containers in ManageIQ.
- - Technologies in use:
- - ManageIQ, Openshift
- - OpenStack managing machines on VMWare
- - Openstack can use VMWare vSphere to deploy machines there, NSX can be used as an SDN solution. I was part of testing this.
- - Open Stack
+ - Filling bug reports to Red Hat's bugzilla.
+ - Making sure to not allow to release with regressions.
  - Involved in hiring new people to our team.
  - Designing small testbed for testing Open Stack - 5 servers
  - Helping my colleague when he was stuck with something by discussing solutions.
- - RHEV-Manager
- - A coder implementing test functions for our automation of  testing API and virtual machines migration.
- - Keeping small test scenarios results good enough.
- - Involved in hiring new people to our team.
+ - Implemented  python functions testing our automation of testing API and virtual machines migration.
    
-** 💼 Windsurfing instructor @ [F4 WS school](f4.cz) and rental, Pasohlávky
+**💼 Windsurfing instructor @ [F4 WS school](f4.cz) and rental, Pasohlávky**
  - 📅 2016-ish - 2020
  - A leisure time for summer weekends that keeps paying out as I got few of the informal people teaching practice and skills.
- - Mostly instrutor teaching the basics skills needed to start windsurfing safely, get back from the point where one started with the board…
+ - Mostly instructor teaching the basics skills needed to start windsurfing safely, get back from the point where one started with the board…
  - Worked with small groups of people - Usually about 5 people. Few times  I  worked with children. I mostly  worked as a private coach for 1-3 adults.
  - Boards maintenance.
 
