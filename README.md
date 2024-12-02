@@ -1,5 +1,16 @@
 # Coach, teacher, professional handyman and IT engineer.
 
+## 📞 Contact
+
+| | |
+|-|-|
+| **Name**   | Jaroslav Henner |
+| **Tel**   | +420 725 580 001 |
+| **E-mail**   | jaroslav.henner@gmail.com
+| **LinkedIn**   | https://www.linkedin.com/in/jaroslav-henner-47a3978b/ |
+| **Web**   | https://koucove.github.io/ |
+| **IČO** | 19458568 |
+
 #### Summary: 
 Mission target: Live happily and work effectively. Help people to be awesome.
 Wisdom: A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. (W. Churchill)
@@ -82,15 +93,3 @@ Reached the Intermediate-Advanced levels in Lindy Hop, basic Balboa.
 
 <iframe style="border: none;width: 100%; min-height: 500px" src="https://www.poptavej.cz/iframe/rating/rating?number=24596464"></iframe>
 <div>
-
-
-## 📞 Contact
-
-| | |
-|-|-|
-| **Name**   | Jaroslav Henner |
-| **Tel**   | +420 725 580 001 |
-| **E-mail**   | jaroslav.henner@gmail.com
-| **LinkedIn**   | https://www.linkedin.com/in/jaroslav-henner-47a3978b/ |
-| **Web**   | https://koucove.github.io/ |
-| **IČO** | 19458568 |
