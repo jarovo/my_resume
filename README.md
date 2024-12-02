@@ -88,6 +88,7 @@ Reached the Intermediate-Advanced levels in Lindy Hop, basic Balboa.
 
 
 ## QR Codes
+
 | | |
 | -- | -- |
 |  vCard       | Online resume  |
