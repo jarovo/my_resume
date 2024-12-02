@@ -78,13 +78,14 @@ Reached the Intermediate-Advanced levels in Lindy Hop, basic Balboa.
 
 
 ## 📖 Self-development and other books read
- - Applying the self development books techniques
+ -  Nenásilná komunikace - Řeč života Autor Marshall B. Rosenberg, Jonathan Rosenberg 
  - Uvědomělý život - James Hollis
  - 7 habits of effective people - Stephen R. Covey
  - Crucial conversations, Joseph Grenny, Kerry Patterson, and Ron McMillan, Switzler
  - How to Have Confidence and Power in Dealing With People - Les Giblin
  - Selfish gene - Richard Dawkins
  - How to make friends and influence people - Dale Carnegie
+
 
 ## 📚 References
 <div>
@@ -94,5 +95,8 @@ Reached the Intermediate-Advanced levels in Lindy Hop, basic Balboa.
 <iframe style="border: none;width: 100%; min-height: 500px" src="https://www.poptavej.cz/iframe/rating/rating?number=24596464"></iframe>
 <div>
 
-## vCard QR Code
-![vCard QR_code/](jaro_resume_vcard.svg)]
+## QR Codes
+| | |
+| -- | -- |
+|  vCard       | Online resume  |
+| ![vCard QR_code](jaro_resume_vcard.svg) | ![resume url QR_code](jaro_my_resume.svg) |
