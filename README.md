@@ -1,4 +1,4 @@
-# Coach, teacher, professional handyman and IT engineer.
+# IT engineer, Coach, teacher and professional handyman
 
 ## 📞 Contact
 
