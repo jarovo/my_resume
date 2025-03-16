@@ -91,5 +91,5 @@ Reached the Intermediate-Advanced levels in Lindy Hop, basic Balboa.
 
 | | |
 | -- | -- |
-|  vCard       | Online resume  |
+|  My vCard       | This resume  |
 | ![vCard QR_code](jaro_resume_vcard.svg) | ![resume url QR_code](jaro_my_resume.svg) |
