@@ -32,6 +32,8 @@ Wisdom: A pessimist sees the difficulty in every opportunity; an optimist sees t
 
 
 #### Achivements & Certificates:
+ - [API Security on Google Cloud's Apigee API Platform](https://coursera.org/share/897614a9c88b7e33210bb45905f79d8c)
+ - [API Design and Fundamentals of Google Cloud's Apigee API Platform](https://coursera.org/share/6d5db6d40082794e784a9d4a6dde2cd9)
  - [Arctic code vault contributor](https://github.com/users/jarovo/achievements/arctic-code-vault-contributor)
  - [CVE-2013-4261](https://nvd.nist.gov/vuln/detail/CVE-2013-4261)
  - [CVE-2014-2573](https://nvd.nist.gov/vuln/detail/CVE-2014-2573)
