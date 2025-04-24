@@ -11,11 +11,11 @@
 | **Web**   | [https://koucove.github.io/](https://koucove.github.io/) |
 | **IČO** | 19458568 |
 
-#### Projects
+## Projects
  - **[python-fakturoid-v3](https://github.com/jarovo/python-fakturoid-v3)**
     Implementation of OAuth2 credentials flow based on python-fakturoid. Added Github action CI and creatinon and distribution of PyPi packages.
 
-#### ☆ Technical Skills:
+## ☆ Technical Skills:
 
 - IT Development Skills: _Proficient in Python, Linux, Bash, javascript_
 - Virtualisation & Cloud skills: _QEMU-KVM, libvirt, Docker, Openshift (Kubernetes), Azure, VMWare;_
@@ -31,7 +31,7 @@
  - **Student** @ Střední průmyslová škola Mohelnice @ Česká republika - Mohelnice; 📅 2000-2004
 
 
-#### Achivements & Certificates:
+## Achivements & Certificates:
  - [API Security on Google Cloud's Apigee API Platform](https://coursera.org/share/897614a9c88b7e33210bb45905f79d8c)
  - [API Design and Fundamentals of Google Cloud's Apigee API Platform](https://coursera.org/share/6d5db6d40082794e784a9d4a6dde2cd9)
  - [Arctic code vault contributor](https://github.com/users/jarovo/achievements/arctic-code-vault-contributor)
