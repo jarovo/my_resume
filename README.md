@@ -12,9 +12,8 @@
 | **IČO** | 19458568 |
 
 #### Projects
-python-fakturoid-v3
-Implementation of OAuth2 credentials flow based on python-fakturoid. Added Github action CI and creatinon and distribution of PyPi packages.
-https://github.com/jarovo/python-fakturoid-v3
+ - **[python-fakturoid-v3](https://github.com/jarovo/python-fakturoid-v3)**
+    Implementation of OAuth2 credentials flow based on python-fakturoid. Added Github action CI and creatinon and distribution of PyPi packages.
 
 #### ☆ Technical Skills:
 
