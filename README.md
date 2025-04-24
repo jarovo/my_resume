@@ -11,9 +11,10 @@
 | **Web**   | [https://koucove.github.io/](https://koucove.github.io/) |
 | **IČO** | 19458568 |
 
-#### Summary: 
-Mission target: Live happily and work effectively. Help people to be awesome.
-Wisdom: A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. (W. Churchill)
+#### Projects
+python-fakturoid-v3
+Implementation of OAuth2 credentials flow based on python-fakturoid. Added Github action CI and creatinon and distribution of PyPi packages.
+https://github.com/jarovo/python-fakturoid-v3
 
 #### ☆ Technical Skills:
 
@@ -80,7 +81,7 @@ Reached the Intermediate-Advanced levels in Lindy Hop, basic Balboa.
 
 
 ## 📖 Self-development and other books read
- -  Nenásilná komunikace - Řeč života Autor Marshall B. Rosenberg, Jonathan Rosenberg 
+ - Nenásilná komunikace - Řeč života Autor Marshall B. Rosenberg, Jonathan Rosenberg 
  - Uvědomělý život - James Hollis
  - 7 habits of effective people - Stephen R. Covey
  - Crucial conversations, Joseph Grenny, Kerry Patterson, and Ron McMillan, Switzler
