@@ -7,7 +7,7 @@
 | **Name**   | Jaroslav Henner |
 | **Tel**   | +420 725 580 001 |
 | **E-mail**   | jaroslav.henner@gmail.com
-| **LinkedIn**   | [![https://www.linkedin.com/in/jaroslav-henner-47a3978b/](https://www.linkedin.com/in/jaroslav-henner-47a3978b/) |
+| **LinkedIn**   | [https://www.linkedin.com/in/jaroslav-henner-47a3978b/](https://www.linkedin.com/in/jaroslav-henner-47a3978b/) |
 | **Web**   | [https://koucove.github.io/](https://koucove.github.io/) |
 | **IČO** | 19458568 |
 
