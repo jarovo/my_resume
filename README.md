@@ -36,14 +36,12 @@
 
 
 ## Achivements & Certificates:
- - [AI For Everyone](https://www.coursera.org/account/accomplishments/verify/2JYHY0GD29WI)
- - [Fundamentals of Containers, Kubernetes, and OpenShift](https://www.coursera.org/account/accomplishments/verify/SPULJ2IGR02Y)
-
- - [Developing APIs with Google Cloud's Apigee API Platform](https://www.coursera.org/account/accomplishments/verify/2KZ9Q6G8L7ZP)
-   - [API Security on Google Cloud's Apigee API Platform](https://www.coursera.org/account/accomplishments/verify/INHW10M1LHZH)
-   - [API Design and Fundamentals of Google Cloud's Apigee API Platform](https://www.coursera.org/account/accomplishments/verify/2KZ9Q6G8L7ZP)
-   - [API Development on Google Cloud's Apigee API Platform](https://www.coursera.org/account/accomplishments/verify/2KZ9Q6G8L7ZP)
-
+ - [AI For Everyone](https://coursera.org/share/95ebabb14617a9a40112eb35dbd009cd)
+ - [Fundamentals of Containers, Kubernetes, and OpenShift](https://coursera.org/share/51090d4116a09246cf5b0405c6031cf9)
+ - [Developing APIs with Google Cloud's Apigee API Platform](https://coursera.org/share/7e87d9b3b1b2ac5d7dd0e4815bdbf141)
+   - [API Security on Google Cloud's Apigee API Platform](https://coursera.org/share/897614a9c88b7e33210bb45905f79d8c)
+   - [API Design and Fundamentals of Google Cloud's Apigee API Platform](https://coursera.org/share/6d5db6d40082794e784a9d4a6dde2cd9)
+   - [API Development on Google Cloud's Apigee API Platform](https://coursera.org/share/cc9cdc562c32e7eb8fb40f1f3c24bb22)
  - [Arctic code vault contributor](https://github.com/users/jarovo/achievements/arctic-code-vault-contributor)
  - [CVE-2013-4261](https://nvd.nist.gov/vuln/detail/CVE-2013-4261)
  - [CVE-2014-2573](https://nvd.nist.gov/vuln/detail/CVE-2014-2573)
