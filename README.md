@@ -47,6 +47,7 @@
  - [CVE-2014-2573](https://nvd.nist.gov/vuln/detail/CVE-2014-2573)
  - [CVE-2019-14894](https://nvd.nist.gov/vuln/detail/CVE-2019-14894)
  - [Electrician exham according to Czech Law no. 194/2022](https://photos.google.com/share/AF1QipPshKYjwA9wk0XajDJ2E3Ayjy7hR42ujbGP3cwxGWXSL5rjq9wjPBRHx7YSYWpi4A/photo/AF1QipON_ptPI6rarAkN-ZkgZwALg1rJ88pRiIzQjnbo?key=RFhpeG03R0IyWjZ0b3djajB5TUJTcXM3dmJQM0xR)
+ - [Accepted PR to Podman Compose](https://github.com/containers/podman-compose/pull/1210)
  - [Other Certificates](https://photos.app.goo.gl/tUQXNr92FxuFSHnf8)
  - RHCSA course.
 
