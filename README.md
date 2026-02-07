@@ -36,19 +36,32 @@
 
 
 ## Achivements & Certificates:
- - [API Security on Google Cloud's Apigee API Platform](https://coursera.org/share/897614a9c88b7e33210bb45905f79d8c)
- - [API Design and Fundamentals of Google Cloud's Apigee API Platform](https://coursera.org/share/6d5db6d40082794e784a9d4a6dde2cd9)
+ - [AI For Everyone](https://www.coursera.org/account/accomplishments/verify/2JYHY0GD29WI)
+ - [Fundamentals of Containers, Kubernetes, and OpenShift](https://www.coursera.org/account/accomplishments/verify/SPULJ2IGR02Y)
+
+ - [Developing APIs with Google Cloud's Apigee API Platform](https://www.coursera.org/account/accomplishments/verify/2KZ9Q6G8L7ZP)
+   - [API Security on Google Cloud's Apigee API Platform](https://www.coursera.org/account/accomplishments/verify/INHW10M1LHZH)
+   - [API Design and Fundamentals of Google Cloud's Apigee API Platform](https://www.coursera.org/account/accomplishments/verify/2KZ9Q6G8L7ZP)
+   - [API Development on Google Cloud's Apigee API Platform](https://www.coursera.org/account/accomplishments/verify/2KZ9Q6G8L7ZP)
+
  - [Arctic code vault contributor](https://github.com/users/jarovo/achievements/arctic-code-vault-contributor)
  - [CVE-2013-4261](https://nvd.nist.gov/vuln/detail/CVE-2013-4261)
  - [CVE-2014-2573](https://nvd.nist.gov/vuln/detail/CVE-2014-2573)
  - [CVE-2019-14894](https://nvd.nist.gov/vuln/detail/CVE-2019-14894)
- - [Certificates](https://photos.app.goo.gl/tUQXNr92FxuFSHnf8)
+ - [Electrician exham according to Czech Law no. 194/2022](https://photos.google.com/share/AF1QipPshKYjwA9wk0XajDJ2E3Ayjy7hR42ujbGP3cwxGWXSL5rjq9wjPBRHx7YSYWpi4A/photo/AF1QipON_ptPI6rarAkN-ZkgZwALg1rJ88pRiIzQjnbo?key=RFhpeG03R0IyWjZ0b3djajB5TUJTcXM3dmJQM0xR)
+ - [Other Certificates](https://photos.app.goo.gl/tUQXNr92FxuFSHnf8)
  - RHCSA course.
 
 
 ## 💼 Work experience 
-**Technical support and development @ [Unipi technology](unipi.technology), Brno**
-- 📅 December  2022 - February 2023
+
+**Developer @ Easycon, Brno**; 📅 August 2025 - Present
+ - Developing system with Python, Pydantic and ModBus protocol.
+
+**Freelance Handyman**; 📅 February 2023 - August 2025
+ - Home repairs, maintenance and renovation projects.
+
+**Technical support and development @ [Unipi technology](unipi.technology), Brno**; 📅 December  2022 - February 2023
 - Gitlab to Github mirroring tool
 - Customer care
 - CPU loader with feedback loop to control the load.
