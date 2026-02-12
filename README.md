@@ -35,7 +35,7 @@
  - **Student** @ Střední průmyslová škola Mohelnice @ Česká republika - Mohelnice; 📅 2000-2004
 
 
-## Achivements & Certificates:
+## Courses & Certifications:
  - [AI For Everyone](https://coursera.org/share/95ebabb14617a9a40112eb35dbd009cd)
  - [Fundamentals of Containers, Kubernetes, and OpenShift](https://coursera.org/share/51090d4116a09246cf5b0405c6031cf9)
  - [Developing APIs with Google Cloud's Apigee API Platform](https://coursera.org/share/7e87d9b3b1b2ac5d7dd0e4815bdbf141)
@@ -55,7 +55,26 @@
 ## 💼 Work experience 
 
 **Developer @ Easycon, Brno**; 📅 August 2025 - Present
- - Developing system with Python, Pydantic and ModBus protocol.
+ - Prepared an semi-automatic upgrade path for OTA update of UniPi over 2 versions of Debian.
+   * Impact: Enabled use of Debian 12, improving secutiry and enabled to use newer software packages.
+ - Resolved race-condition in a project with multiple subprocesses:
+   * Impact: Complete elimination
+   of sporadic corruption of mmaped regions of memory, improving reliability and resource utilization.
+ - Implemented parallelized reading from Modbus devices:
+   * Impact: Enabled efficient data collection 
+   from multiple devices, improving performance and scalability of the system.
+ - Added type-checking hints and `pydantic` object models.
+   * Impact: Preventing introduction of errors,
+   IDE provides more relevant suggestions, better documentation of configuration structure,
+   and improved maintainability of the codebase.
+ - Restructured the project and changed python `import` statements to absolute imports of whole modules.
+   * Impact: Improved maintainability, IDE support, reduced risk of circular imports, enabled faster code navigation
+   and thus faster onboarding of new developers.
+ - Implemented unit-tests using `pytest` and GitHub Actions.
+   * Impact: Base for future refactoring of the codebase
+   to decrease internal coupling and increase maintainability, and help preventing regressions in the future.
+ - Found the root-cause of a memory leak in production code.
+
 
 **Freelance Handyman**; 📅 February 2023 - August 2025
  - Home repairs, maintenance and renovation projects.
