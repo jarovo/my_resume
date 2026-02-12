@@ -56,22 +56,22 @@
 
 **Developer @ Easycon, Brno**; 📅 August 2025 - Present
  - Prepared an semi-automatic upgrade path for OTA update of UniPi over 2 versions of Debian.
-   * Impact: Enabled use of Debian 12, improving secutiry and enabled to use newer software packages.
+   ✅ Impact: Enabled use of Debian 12, improving secutiry and enabled to use newer software packages.
  - Resolved race-condition in a project with multiple subprocesses:
-   * Impact: Complete elimination
+   ✅ Impact: Complete elimination
    of sporadic corruption of mmaped regions of memory, improving reliability and resource utilization.
  - Implemented parallelized reading from Modbus devices:
-   * Impact: Enabled efficient data collection 
+   ✅ Impact: Enabled efficient data collection 
    from multiple devices, improving performance and scalability of the system.
  - Added type-checking hints and `pydantic` object models.
-   * Impact: Preventing introduction of errors,
+   ✅ Impact: Preventing introduction of errors,
    IDE provides more relevant suggestions, better documentation of configuration structure,
    and improved maintainability of the codebase.
  - Restructured the project and changed python `import` statements to absolute imports of whole modules.
-   * Impact: Improved maintainability, IDE support, reduced risk of circular imports, enabled faster code navigation
+   ✅ Impact: Improved maintainability, IDE support, reduced risk of circular imports, enabled faster code navigation
    and thus faster onboarding of new developers.
  - Implemented unit-tests using `pytest` and GitHub Actions.
-   * Impact: Base for future refactoring of the codebase
+   ✅ Impact: Base for future refactoring of the codebase
    to decrease internal coupling and increase maintainability, and help preventing regressions in the future.
  - Found the root-cause of a memory leak in production code.
 
