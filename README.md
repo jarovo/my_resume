@@ -11,12 +11,6 @@
 | **Web**   | [https://koucove.github.io/](https://koucove.github.io/) |
 | **IČO** | 19458568 |
 
-
-## Projects
- - **[python-fakturoid-v3](https://github.com/jarovo/python-fakturoid-v3)**
-    Implementation of OAuth2 credentials flow based on python-fakturoid. Added Github action CI and creatinon and distribution of PyPi packages.
-
-
 ## ☆ Technical Skills:
 
 - IT Development Skills: _Proficient in Python, Linux, Bash, javascript_
@@ -75,6 +69,7 @@
 
 **Freelance Handyman**; 📅 February 2023 - August 2025
  - Home repairs, maintenance and renovation projects.
+
 
 **Technical support and development @ [Unipi technology](unipi.technology), Brno**; 📅 December  2022 - February 2023
 - Gitlab to Github mirroring tool
