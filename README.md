@@ -51,7 +51,7 @@
 
 **Developer @ Easycon, Brno**; 📅 August 2025 - Present
  - Prepared an semi-automatic upgrade path for OTA update of UniPi over 2 versions of Debian.
-   ✅ Impact: Enabled use of Debian 12, improving secutiry and enabled to use newer software packages.
+   ✅ Impact: Enabled use of Debian 12, improving security and enabled to use newer software packages.
  - Resolved race-condition in a project with multiple subprocesses:
    ✅ Impact: Complete elimination
    of sporadic corruption of mmaped regions of memory, improving reliability and resource utilization.
