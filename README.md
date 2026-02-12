@@ -42,12 +42,7 @@
    - [API Security on Google Cloud's Apigee API Platform](https://coursera.org/share/897614a9c88b7e33210bb45905f79d8c)
    - [API Design and Fundamentals of Google Cloud's Apigee API Platform](https://coursera.org/share/6d5db6d40082794e784a9d4a6dde2cd9)
    - [API Development on Google Cloud's Apigee API Platform](https://coursera.org/share/cc9cdc562c32e7eb8fb40f1f3c24bb22)
- - [Arctic code vault contributor](https://github.com/users/jarovo/achievements/arctic-code-vault-contributor)
- - [CVE-2013-4261](https://nvd.nist.gov/vuln/detail/CVE-2013-4261)
- - [CVE-2014-2573](https://nvd.nist.gov/vuln/detail/CVE-2014-2573)
- - [CVE-2019-14894](https://nvd.nist.gov/vuln/detail/CVE-2019-14894)
  - [Electrician exham according to Czech Law no. 194/2022](https://photos.google.com/share/AF1QipPshKYjwA9wk0XajDJ2E3Ayjy7hR42ujbGP3cwxGWXSL5rjq9wjPBRHx7YSYWpi4A/photo/AF1QipON_ptPI6rarAkN-ZkgZwALg1rJ88pRiIzQjnbo?key=RFhpeG03R0IyWjZ0b3djajB5TUJTcXM3dmJQM0xR)
- - [Accepted PR to Podman Compose](https://github.com/containers/podman-compose/pull/1210)
  - [Other Certificates](https://photos.app.goo.gl/tUQXNr92FxuFSHnf8)
  - RHCSA course.
 
@@ -73,8 +68,9 @@
  - Implemented unit-tests using `pytest` and GitHub Actions.
    ✅ Impact: Base for future refactoring of the codebase
    to decrease internal coupling and increase maintainability, and help preventing regressions in the future.
+ - [Accepted PR to Podman Compose](https://github.com/containers/podman-compose/pull/1210)
  - Found the root-cause of a memory leak in production code.
-
+ 
 
 **Freelance Handyman**; 📅 February 2023 - August 2025
  - Home repairs, maintenance and renovation projects.
@@ -90,14 +86,15 @@
 
 **💼 Quality assurance engineer @ Red Hat, Brno**; 📅 January 2011 - June 2022
  - Automation and testing of Manage IQ, OpenStack, RHEV-Manager
- - Fixing the tests in our [opensourced tests repo]( https://github.com/ManageIQ/integration_tests)
- - Filling bug reports to Red Hat's bugzilla.
- - Making sure to not allow to release with regressions.
- - Involved in hiring new people to our team.
- - Designing small testbed for testing Open Stack - 5 servers
- - Helping my colleague when he was stuck with something by discussing solutions.
- - Implemented  python functions testing our automation of testing API and virtual machines migration.
-   
+ - Total 283 [Bugzilla contributions](https://bugzilla.redhat.com/buglist.cgi?bug_status=__closed__&columnlist=product%2Ccomponent%2Cassigned_to%2Cstatus%2Csummary%2Clast_change_time%2Cseverity%2Cpriority&email1=jhenner&emailqa_contact1=1&emailtype1=substring&list_id=13651882&order=priority%2C%20severity%2C%20&query_format=advanced&resolution=COMPLETED&resolution=ERRATA&resolution=CURRENTRELEASE&resolution=UPSTREAM) driven to fixing the product and improving its quality. ✅ Impact: Contributed to improving the quality and reliability of the product.
+  * [Arctic code vault contributor](https://github.com/users/jarovo/achievements/arctic-code-vault-contributor)
+  * Securely published 3 CVEs. ✅ Impact: Contributed to improving the security of the product and protecting our customers, proven ability to identify and responsibly disclose security vulnerabilities.
+   * [CVE-2013-4261](https://nvd.nist.gov/vuln/detail/CVE-2013-4261)
+   * [CVE-2014-2573](https://nvd.nist.gov/vuln/detail/CVE-2014-2573)
+   * [CVE-2019-14894](https://nvd.nist.gov/vuln/detail/CVE-2019-14894)
+ - Contributed with 128 PRs in [Manage IQ opensourced tests repo](https://github.com/ManageIQ/integration_tests/pulls?q=is%3Amerged+is%3Apr+author%3Ajarovo++) ✅ Impact: Contributed to improving the quality and reliability of the product by adding tests, fixing automation bugs, and improving test infrastructure.
+
+
 **💼 Windsurfing instructor @ [F4 WS school](f4.cz) and rental, Pasohlávky**; 📅 2016-ish - 2020
  - A leisure time for summer weekends that keeps paying out as I got few of the informal people teaching practice and skills.
  - Mostly instructor teaching the basics skills needed to start windsurfing safely, get back from the point where one started with the board…
