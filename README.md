@@ -68,7 +68,8 @@
  - Implemented unit-tests using `pytest` and GitHub Actions.
    ✅ Impact: Base for future refactoring of the codebase
    to decrease internal coupling and increase maintainability, and help preventing regressions in the future.
- - [Accepted PR to Podman Compose](https://github.com/containers/podman-compose/pull/1210)
+ - [Contributed to Podman Compose](https://github.com/containers/podman-compose/pull/1210) ✅ Impact: Enabled to use
+   podman secretes on Selinux enabled systems.
  - Found the root-cause of a memory leak in production code.
  
 
