@@ -88,10 +88,7 @@
  - Automation and testing of Manage IQ, OpenStack, RHEV-Manager
  - Total 283 [Bugzilla contributions](https://bugzilla.redhat.com/buglist.cgi?bug_status=__closed__&columnlist=product%2Ccomponent%2Cassigned_to%2Cstatus%2Csummary%2Clast_change_time%2Cseverity%2Cpriority&email1=jhenner&emailqa_contact1=1&emailtype1=substring&list_id=13651882&order=priority%2C%20severity%2C%20&query_format=advanced&resolution=COMPLETED&resolution=ERRATA&resolution=CURRENTRELEASE&resolution=UPSTREAM) driven to fixing the product and improving its quality. ✅ Impact: Contributed to improving the quality and reliability of the product.
   * [Arctic code vault contributor](https://github.com/users/jarovo/achievements/arctic-code-vault-contributor)
-  * Securely published 3 CVEs. ✅ Impact: Contributed to improving the security of the product and protecting our customers, proven ability to identify and responsibly disclose security vulnerabilities.
-   * [CVE-2013-4261](https://nvd.nist.gov/vuln/detail/CVE-2013-4261)
-   * [CVE-2014-2573](https://nvd.nist.gov/vuln/detail/CVE-2014-2573)
-   * [CVE-2019-14894](https://nvd.nist.gov/vuln/detail/CVE-2019-14894)
+  * Securely published 3 CVEs. ✅ Impact: Contributed to improving the security of the product and protecting our customers, proven ability to identify and responsibly disclose security vulnerabilities. [CVE-2013-4261](https://nvd.nist.gov/vuln/detail/CVE-2013-4261), [CVE-2014-2573](https://nvd.nist.gov/vuln/detail/CVE-2014-2573), [CVE-2019-14894](https://nvd.nist.gov/vuln/detail/CVE-2019-14894)
  - Contributed with 128 PRs in [Manage IQ opensourced tests repo](https://github.com/ManageIQ/integration_tests/pulls?q=is%3Amerged+is%3Apr+author%3Ajarovo++) ✅ Impact: Contributed to improving the quality and reliability of the product by adding tests, fixing automation bugs, and improving test infrastructure.
 
 
