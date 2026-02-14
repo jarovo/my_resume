@@ -30,6 +30,7 @@
 
 
 ## Courses & Certifications:
+ - [Neural Networks and Deep Learning](https://coursera.org/share/fa532b6053fd4b04dd5e5af9cf1b12fe)
  - [AI For Everyone](https://coursera.org/share/95ebabb14617a9a40112eb35dbd009cd)
  - [Fundamentals of Containers, Kubernetes, and OpenShift](https://coursera.org/share/51090d4116a09246cf5b0405c6031cf9)
  - [Developing APIs with Google Cloud's Apigee API Platform](https://coursera.org/share/7e87d9b3b1b2ac5d7dd0e4815bdbf141)
