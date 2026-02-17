@@ -1,5 +1,7 @@
 # IT engineer, Coach, teacher and professional handyman
 
+I completed my thesis on demodulating ACARS signals. After that, in Red Hat as QA on RHEV-M - virtualization management for datacentres I encountered VLANs, storage systems, and REST API testing. I moved to OpenStack where I discovered a DOS vulnerability - one of my 3 CVEs total - and contributed to GitHub's Arctic Code Vault. We built a system for testing OpenStack on OpenStack. Then I discovered another CVE related to DOS vulnerability of Openstack and VMWare. Then, in ManageIQ, I owned WebUI test reliability and reported another CVE about shell-injection vulnerability. Throughout my career in RedHat I have cooperated on more then 200bugs that were fixed. I've contributed upstream - most recently a Podman compose fix enabling secrets on SELinux systems. I delivered a upgrade path for UniPi to Debian 12 in Easycon and implemented parallelized reading from Modbus Devices. I have experience with coaching and teaching - I taught Python to women at Czechitas and I am a passed a course as a coach by ICF standards. I have also worked as a freelance handyman, doing home repairs, maintenance and renovation projects.
+
 ## 📞 Contact
 
 | | |
