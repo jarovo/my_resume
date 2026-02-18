@@ -1,6 +1,6 @@
 # IT engineer, Coach, teacher and professional handyman
 
-I completed my thesis on ACARS signal demodulation, then spent 10+ years at Red Hat as QA across RHEV-M, OpenStack, and ManageIQ. I reported 3 CVEs including a DOS vulnerability and Remote Code Execution with priviledge escalation, cooperated on over 200 bug fixes, and contributed to GitHub's Arctic Code Vault. More recently I've done development work - delivering a Debian 12 upgrade path for UniPi controllers, implementing parallelized Modbus reading, and contributing a Podman compose fix for SELinux systems. On the leadership side, I'm coach by ICF standards and taught Python at Czechitas.
+I completed my thesis on ACARS signal demodulation, then spent 10+ years at Red Hat as QA across RHEV-M, OpenStack, and ManageIQ. I reported 3 CVEs including a DOS vulnerability and Remote Code Execution with priviledge escalation, cooperated on over 200 bug fixes, and contributed to GitHub's Arctic Code Vault. More recently I've done development work - delivering a Debian 12 automatized upgrade path on UniPi controllers, implementing parallelized Modbus reading, and contributing a Podman compose fix for SELinux systems. On the leadership side, I'm coach by ICF standards and taught Python at Czechitas.
 
 ## 📞 Contact
 
