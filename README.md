@@ -32,6 +32,7 @@ I completed my thesis on ACARS signal demodulation, then spent 10+ years at Red 
 
 
 ## Courses & Certifications:
+ - [Structuring Machine Learning Projects](https://coursera.org/share/f09f59eebdd434fd819084e674fc05b7)
  - [Neural Networks and Deep Learning](https://coursera.org/share/fa532b6053fd4b04dd5e5af9cf1b12fe)
  - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/ed4d0a3618227b8e8878702b33b4c1d5)
  - [AI For Everyone](https://coursera.org/share/95ebabb14617a9a40112eb35dbd009cd)
