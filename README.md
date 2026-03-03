@@ -1,4 +1,4 @@
-# IT engineer, Coach, teacher and professional handyman
+# IT engineer with electrical background.
 
 I've graduated with thesis on ACARS signal demodulation. After that, during 10+ years at Red Hat as QA across RHEV-M, OpenStack, and ManageIQ I've reported 3 CVEs including a DOS vulnerability and Remote Code Execution with priviledge escalation, cooperated on over 200 bug fixes, and contributed to GitHub's Arctic Code Vault.
 
