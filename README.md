@@ -50,7 +50,7 @@ More recently I've done development work - delivering a Debian 12 automatized up
 
 ## 💼 Work experience 
 
-**Developer @ Easycon, Brno**; 📅 August 2025 - Present
+**Developer @ Easycon, Brno**; 📅 August 2025 - February 2023
  - Prepared an semi-automatic upgrade path for OTA update of UniPi over 2 versions of Debian.
    ✅ Impact: Enabled use of Debian 12, improving security and enabled to use newer software packages.
  - Resolved race-condition in a project with multiple subprocesses:
